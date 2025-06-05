@@ -35,6 +35,6 @@ An interactive, customizable quiz application built with modern web technologies
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/asisshhh/quizz-application.git
 cd quiz-craft-unleashed
 npm install
